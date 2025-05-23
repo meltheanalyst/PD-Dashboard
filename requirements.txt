@@ -5,3 +5,4 @@ bcrypt
 openpyxl
 streamlit-autorefresh
 passlib
+python-dotenv==1.0.1
