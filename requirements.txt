@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+bcrypt
+openpyxl
+streamlit-autorefresh
+passlib
